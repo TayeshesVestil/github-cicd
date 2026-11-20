@@ -11,5 +11,3 @@ Route::get('/version', function () {
         'version' => app()->version(),
     ]);
 });
-
-//
